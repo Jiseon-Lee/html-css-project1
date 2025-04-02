@@ -1,6 +1,11 @@
 @charset "utf-8";
 
 header {
+    width:100%;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+.head {
     width:1180px;
     height: 112px;
     margin:0 auto;
